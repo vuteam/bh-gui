@@ -1,4 +1,4 @@
-SUBDIRS = countries fonts extensions keymaps skin_default rc_models
+SUBDIRS = countries fonts extensions keymaps rc_models
 
 dist_pkgdata_DATA = \
 	encoding.conf \
@@ -9,9 +9,7 @@ dist_pkgdata_DATA = \
 	black.mvi \
 	rcpositions.xml \
 	setup.xml \
-	skin_default.xml \
 	skin_subtitles.xml \
-	skin.xml \
 	startwizard.xml \
 	freesat.t1 \
 	freesat.t2 \
