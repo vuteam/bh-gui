@@ -357,10 +357,6 @@ lib/python/Tools/Makefile
 lib/python/Plugins/SystemPlugins/AnimationSetup/Makefile
 lib/python/Plugins/SystemPlugins/AnimationSetup/meta/Makefile
 lib/python/Blackhole/Makefile
-lib/python/Blackhole/DeviceManager/Makefile
-lib/python/Blackhole/DeviceManager/bin/Makefile
-lib/python/Blackhole/DeviceManager/bin/mips/Makefile
-lib/python/Blackhole/DeviceManager/icons/Makefile
 po/Makefile
 main/Makefile
 tools/Makefile
