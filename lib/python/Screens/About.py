@@ -38,7 +38,7 @@ class About(Screen):
 
         self['DriverVersion'] = StaticText(_('DVB drivers: ') + driverdate)
         self['KernelVersion'] = StaticText(_('Kernel version: ') + self.getKernelVersionString())
-        self['FPVersion'] = StaticText('Support: RAED rrrr53@hotmail.com')
+        self['FPVersion'] = StaticText('Support: SODO redouane13@hotmail.com')
         self['CpuInfo'] = StaticText(_('CPU: ') + self.getCPUInfoString())
         
         AboutText = _('Black Hole ') + bhVer + '\n'
