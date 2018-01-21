@@ -4,6 +4,9 @@
 
 #include <lib/base/cfile.h>
 #include <lib/gdi/picload.h>
+#if defined(__sh__)
+#include <mmeimage/libmmeimage.h>
+#endif
 
 extern "C" {
 #define HAVE_BOOLEAN
